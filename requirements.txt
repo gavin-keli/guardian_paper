@@ -1,0 +1,14 @@
+click==8.0.0
+dill==0.3.3
+Keras==2.6.0
+librosa==0.8.0
+matplotlib==3.4.2
+natsort==7.1.1
+numba==0.53.1
+numpy==1.19.5
+pandas==1.2.4
+python-keystoneclient==4.2.0
+python_speech_features==0.6
+seaborn==0.11.2
+tensorflow==2.6.0
+tqdm==4.60.0
